@@ -20,7 +20,13 @@
 								Build your brand’s recognition and get detailed insights on how
 								your links are performing.
 							</p>
-							<a href="#action" class="promo__button" v-smooth-scroll="{offset: -10}"> Get Started </a>
+							<a
+								href="#action"
+								class="promo__button"
+								v-smooth-scroll="{ offset: -10 }"
+							>
+								Get Started
+							</a>
 						</div>
 					</div>
 				</div>
@@ -113,7 +119,12 @@
 			<section class="boost">
 				<div class="boost__container">
 					<p class="boost__title">Boost your links today</p>
-					<a href="#action" class="boost__button" v-smooth-scroll="{offset: -10}">Get Started</a>
+					<a
+						href="#action"
+						class="boost__button"
+						v-smooth-scroll="{ offset: -10 }"
+						>Get Started</a
+					>
 				</div>
 			</section>
 		</main>
@@ -616,13 +627,15 @@ onMounted(() => {
 // animates
 .fade-enter-active,
 .fade-leave-active {
-	transition: all 1s ease;
+	opacity: 1;
+	transition: all 0.8s ease;
 	transform: translateY(0);
 }
 
 .fade-enter-from,
 .fade-leave-to {
 	opacity: 0;
-	transform: translateY(-100vh);
+	transition: all 0.8s ease;
+	transform: translateY(-100%);
 }
 </style>
