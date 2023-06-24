@@ -22,8 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](screenshots/desktop.jpg)
-![mobile](screenshots/mobile.jpg)
+<div align="center">
+  <img src="screenshots/desktop.jpg" alt="preview" width="630"/>&nbsp;<img src="screenshots/mobile.jpg" alt="preview" width="300"/>&nbsp;
+</div>
 
 ## My process
 
