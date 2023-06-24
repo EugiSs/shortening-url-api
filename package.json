@@ -1,0 +1,21 @@
+{
+  "name": "shortening-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13",
+    "vue-clipboard3": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.0",
+    "vue3-smooth-scroll": "^0.8.1"
+  }
+}

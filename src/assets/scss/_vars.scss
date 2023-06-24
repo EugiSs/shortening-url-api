@@ -1,0 +1,25 @@
+// ##colors
+// Primary
+$Cyan: hsl(180, 66%, 49%);
+$DarkViolet: hsl(257, 27%, 26%);
+
+// Secondary
+$Red: hsl(0, 87%, 67%);
+
+// Neutral
+$White: #ffffff;
+$Gray: hsl(0, 0%, 75%);
+$LightGray: hsl(230, 25%, 95%);
+$GrayishViolet: hsl(257, 7%, 63%);
+$VeryDarkBlue: hsl(255, 11%, 22%);
+$VeryDarkViolet: hsl(260, 8%, 14%);
+
+// ##media-queries
+$mobileL: "min-width: 424.98px";
+$tablet: "min-width: 767.98px";
+$desktop: "min-width: 1023.98px";
+$projector: "min-width: 1399.98px";
+
+// devices
+$mouse-device: "(hover: hover) and (pointer: fine)";
+$touch-device: "(hover: none) and (pointer: coarse)";

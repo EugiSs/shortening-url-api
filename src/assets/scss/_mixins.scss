@@ -1,0 +1,45 @@
+%cnt {
+	max-width: 1110px;
+	padding-inline: 25px;
+	margin: 0 auto;
+	box-sizing: content-box;
+}
+
+// elems
+%img {
+	object-fit: cover;
+	object-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+@mixin btn($max-width, $height, $fs: 18px) {
+	width: 100%;
+	max-width: $max-width;
+	height: $height;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-weight: 500;
+	font-size: $fs;
+	color: $White;
+	background-color: $Cyan;
+	cursor: pointer;
+	transition: all 0.5s ease 0s;
+	border-radius: 20px;
+	padding: 5px 10px;
+
+	@media ($mouse-device) {
+		&:hover {
+			color: $White;
+			background-color: lighten($Cyan, 25%);
+		}
+	}
+	@media ($touch-device) {
+		&:active {
+			color: $White;
+			background-color: lighten($Cyan, 25%);
+		}
+	}
+}
