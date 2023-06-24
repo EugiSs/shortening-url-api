@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](screenshot/desktop.jpg)
-![mobile](screenshot/mobile.jpg)
+![desktop](screenshots/desktop.jpg)
+![mobile](screenshots/mobile.jpg)
 
 ## My process
 
