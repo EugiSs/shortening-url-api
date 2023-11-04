@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:]([https://github.com/EugiSs/shortening-url-api/tree/main))
-- [Live Site URL:](https://eugiss.github.io/shortening-url-api/)
+- [Solution URL](https://github.com/EugiSs/shortening-url-api/tree/main)
+- [Live Site URL](https://eugiss.github.io/shortening-url-api/)
 
 ### Screenshot
 
