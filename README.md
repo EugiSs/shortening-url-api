@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:]([https://github.com/EvgiSs/shortening-url-api/tree/main))
-- [Live Site URL:](https://evgiss.github.io/shortening-url-api/)
+- [Solution URL:]([https://github.com/EugiSs/shortening-url-api/tree/main))
+- [Live Site URL:](https://eugiss.github.io/shortening-url-api/)
 
 ### Screenshot
 
@@ -44,5 +44,5 @@ app development with Vue3, Composition API
 
 ## Author
 
-- Website - [EvgiSs](https://github.com/EvgiSs)
-- Frontend Mentor - [@Evgi](https://www.frontendmentor.io/profile/EvgiSs)
+- Website - [EugiSs](https://github.com/EugiSs)
+- Frontend Mentor - [@Eugi](https://www.frontendmentor.io/profile/EugiSs)
